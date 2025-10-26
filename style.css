@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: PaleTurquoise;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    background-color:PaleTurquoise;
+    color:Navy;
+}
+
+footer p{
+    background-color: aquamarine;
+}
+
+nav a{
+   margin: 10px;
+   padding: 5px;
+   font-size: 18px;
+   text-decoration: none;
+   color: white;
+   border: 3px solid blue;
+   border-radius: 10px;
+   background-color: navy;
+}
+
+.popular{
+    background-color: white;
+    color: royalblue;
+}
+nav{
+    padding: 15px;
+}
+
+select{
+    padding: 5px;
+    background-color:white;
+    color: royalblue;
+    border-radius: 10px;
+    border: 3px solid navy;
+    font-size: 15px;
+}
+
+select option{
+    color: white;
+    background-color: navy;
+
+}
+
+.img{
+    border: 4px solid rgb(11, 11, 170);
+    border-radius: 20px;
+    padding: 10px;
+
+}
